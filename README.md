@@ -1,4 +1,4 @@
-# Fortnite
+# Fortnite Stats
 
 ## Beta site
 - https://fortnite.improovement.com/
