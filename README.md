@@ -17,6 +17,6 @@
 - [Frontity](https://frontity.org/)
 
 ## Backend
-- Repository: https://github.com/nandotess/Fortnite-WordPress
+- Repository: https://github.com/nandotess/Fortnite-WordPress/tree/master/wp-content/plugins/fortnite
 - [SiteGround](https://www.siteground.com/) (cloud hosting)
 - WordPress (headless CMS)
